@@ -4,6 +4,8 @@
 
 ---
 
+### This template uses absolute paths, for more details visit [NextJS Docs](https://nextjs.org/docs/advanced-features/module-path-aliases)
+
 #### I hope it will be usefull.
 
 #### Thank you
